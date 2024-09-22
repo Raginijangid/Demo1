@@ -7,8 +7,8 @@
 <body>
 <div class="style">
 <h1>Hello Git</h1>
-<p>This is the first file in my new Git Repo.</p>
-<p>This is the first demo tutorial in my new Git Repo.</p>
+<p>This is the second file in my new Git Repo.</p>
+<p>This is the second demo tutorial in my new Git Repo.</p>
 </div>
 </body>
 </html>
